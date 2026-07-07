@@ -58,6 +58,62 @@
 ---
 
 
+
+## ENG
+
+# ParentalGuard
+
+Parental Control System for Windows.
+
+Monitors child's computer activity and sends reports to parent via Telegram.
+
+---
+
+## Bot Controls
+
+* 👁️ Active Window — what is currently open
+* 🎮 Running Games — list of launched games
+* 📊 Live Report — current statistics
+* 🌐 Browser — browser monitoring and tabs
+* 📸 Make Screenshot — instant screenshot
+* 📸 Last Screenshots — view saved screenshots
+
+---
+
+## Live Report
+
+* Real-time data update
+* Current active window display
+* List of running games
+* Screenshot statistics
+* Overall activity overview
+
+---
+
+## Browser Monitoring
+
+* Shows running browsers (Chrome, Edge)
+* Last opened tabs
+* Pagination support
+* Quick link opening buttons
+
+---
+
+## Features
+
+- Real-time activity monitoring
+- Game detection and notifications
+- Automatic and manual screenshots
+- Browser tab monitoring
+- Clean and convenient Telegram interface
+
+---
+
+
+
+
+
+
 P.S.
 Я устал искать смайлики для кнопок, уже привык к сайту с ними.
 
