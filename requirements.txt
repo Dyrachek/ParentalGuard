@@ -1,0 +1,9 @@
+python-telegram-bot==21.4
+psutil
+pygetwindow
+mss
+Pillow
+python-dotenv
+requests
+pywin32; platform_system == "Windows"
+sqlite3
